@@ -1,0 +1,43 @@
+#img1
+{
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg");
+	width:200px;
+	height:150px;
+	background-size: 200px 150px;
+}
+#img2
+{
+	background-image: url("http://www.shauntmax30.com/data/out/44/1331093-new-usa-wallpapers.gif");
+	width:200px;
+	height:150px;
+	background-size: 200px 150px;
+}
+#img3
+{
+	background-image: url("https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg");
+	width:200px;
+	height:150px;
+	background-size: 200px 150px;
+}
+#img4
+{
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png");
+	width:200px;
+	height:150px;
+	background-size: 200px 150px;
+}
+#img5
+{
+	background-image: url("https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg");
+	width:200px;
+	height:150px;
+	background-size: 200px 150px;
+}
+.pos
+{
+	margin:0 80px;
+	padding-top: 65px;
+	font-weight:bolder;
+	display:none;
+}
+
